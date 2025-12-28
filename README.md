@@ -42,11 +42,3 @@
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status: Active">
 <img src="https://img.shields.io/badge/Status-Maintained-blue?style=for-the-badge" alt="Status: Maintained">
 <img src="https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge" alt="Status: Inactive">
-
-<img src="https://img.shields.io/badge/Status-Actively%20Developed-success?style=for-the-badge"
-     alt="Status: Actively Developed – new features and improvements">
-<img src="https://img.shields.io/badge/Status-Maintenance%20Only-blue?style=for-the-badge"
-     alt="Status: Maintenance Only – bug fixes only">
-<img src="https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge"
-     alt="Status: Inactive – no further updates or fixes">
-
