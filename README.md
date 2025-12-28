@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/forks/GoldenIsAProtogen/GoldensGorillaNametags?style=for-the-badge" alt="Forks">
     <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status: Active">
     <img src="https://img.shields.io/badge/Status-Maintained-blue?style=for-the-badge" alt="Status: Maintained">
-    <img src="https://img.shields.io/badge/Status-Not%20Updating-red?style=for-the-badge" alt="Status: Not Updating">
+    <img src="https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge" alt="Status: Inactive">
 </a>
 
 ## GoldensGorillaNameTagsMC
