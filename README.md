@@ -38,6 +38,6 @@
     <img src="https://img.shields.io/github/last-commit/GoldenIsAProtogen/Feather?style=for-the-badge" alt="Last Commit">
     <img src="https://img.shields.io/github/repo-size/GoldenIsAProtogen/Feather?style=for-the-badge" alt="Repo Size">
     <img src="https://img.shields.io/github/stars/GoldenIsAProtogen/Feather?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
     <img src="https://img.shields.io/github/forks/GoldenIsAProtogen/Feather?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
 </a>
