@@ -10,7 +10,7 @@
 
 ## GoldensGorillaNameTagsMC
 <a href="https://github.com/GoldenIsAProtogen/GoldensGorillaNameTagsMC/releases/latest">
-   <img src="https://img.shields.io/github/downloads/GoldenIsAProtogen/GoldensGorillaNameTagsMC/total?label=Downloads&style=for-the-badge" alt="Downloads">
+    <img src="https://img.shields.io/github/downloads/GoldenIsAProtogen/GoldensGorillaNameTagsMC/total?label=Downloads&style=for-the-badge" alt="Downloads">
     <img src="https://img.shields.io/github/v/release/GoldenIsAProtogen/GoldensGorillaNameTagsMC?label=Version&style=for-the-badge" alt="Version">
     <img src="https://img.shields.io/github/last-commit/GoldenIsAProtogen/GoldensGorillaNameTagsMC?style=for-the-badge" alt="Last Commit">
     <img src="https://img.shields.io/github/repo-size/GoldenIsAProtogen/GoldensGorillaNameTagsMC?style=for-the-badge" alt="Repo Size">
