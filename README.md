@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/github/stars/GoldenIsAProtogen/GoldensGorillaNametags?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/forks/GoldenIsAProtogen/GoldensGorillaNametags?style=for-the-badge" alt="Forks">
     <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
+    <img src="https://img.shields.io/maintenance/yes/2025?style=for-the-badge" alt="Maintained">
 </a>
 
 ## GoldensGorillaNameTagsMC
